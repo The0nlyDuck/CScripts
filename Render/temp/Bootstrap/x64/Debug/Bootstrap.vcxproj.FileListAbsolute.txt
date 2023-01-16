@@ -1,0 +1,3 @@
+C:\Users\User\Desktop\Downloads\aieBootstrap-render\temp\Bootstrap\x64\Debug\Bootstrap.lib
+C:\Users\s210372\source\repos\Render\temp\Bootstrap\x64\Debug\Bootstrap.lib
+C:\Users\User\Desktop\School Work\AIE\Rendering\Render\temp\Bootstrap\x64\Debug\Bootstrap.lib

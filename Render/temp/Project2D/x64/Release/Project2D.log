@@ -1,0 +1,4 @@
+﻿  Application2D.cpp
+C:\Users\User\Desktop\School Work\AIE\Rendering\Render\Project2D\Application2D.cpp(88,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+LINK : fatal error LNK1181: cannot open input file 'bootstrap.lib'
