@@ -1,0 +1,16 @@
+﻿  Application2D.cpp
+  Box.cpp
+  main.cpp
+  PhysicsObject.cpp
+  PhysicsScene.cpp
+C:\Users\s210372\Documents\PhysicsAssessment\Physics\Project2D\PhysicsScene.cpp(63,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Plane.cpp
+  RigidBody.cpp
+  Sphere.cpp
+  Spring.cpp
+  Generating code
+  1297 of 1309 functions (99.1%) were compiled, the rest were copied from previous compilation.
+    6 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project2D.vcxproj -> C:\Users\s210372\Documents\PhysicsAssessment\Physics\temp\Project2D\x64\Release\Project2D.exe

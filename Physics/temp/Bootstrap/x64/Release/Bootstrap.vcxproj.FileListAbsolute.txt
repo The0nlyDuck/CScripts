@@ -1,0 +1,3 @@
+C:\Users\s210372\source\repos\Physics\temp\Bootstrap\x64\Release\Bootstrap.lib
+C:\Users\s210372\Perforce\Year_1\2021\programming\Nathan s210372\Physics\temp\Bootstrap\x64\Release\Bootstrap.lib
+C:\Users\s210372\Documents\PhysicsAssessment\Physics\temp\Bootstrap\x64\Release\Bootstrap.lib
